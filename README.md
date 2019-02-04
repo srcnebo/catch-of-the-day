@@ -9,4 +9,5 @@ Reactjs on the front-end and firebase on the backend
 * Create new store
 * Load a list of products
 * add products to shopping cart
+* save sessions using local storage
 
